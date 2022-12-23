@@ -23,3 +23,23 @@ E
 aws/04. IAM 개요.md,b/d/bdd28df740e2f75586b84999029e3539584a47d5
 L
 aws/05. EC2 생성 실습.md,4/f/4f06247ccf4aa2880c34fd4f00ac9a9e0da16be5
+U
+%aws/08. EBS ( Elastic Block Store).md,7/5/75cff4ab46444e870f2af8f725ce0db497ddcb47
+I
+aws/10. Instance Store.md,5/a/5a9e74dfd9ff9d87cc296eb396d9ad2eb30de41f
+N
+aws/11. Elastic File System.md,a/2/a22c6251481923a1e79ddb06dede8a2534dc22f0
+Q
+!aws/12. 시스템 아키텍처.md,0/a/0a90f2e1af366245865823938bc832df75fe26e2
+>
+aws/13. ELB.md,a/3/a34673d4e3d5f5529e71a89bff0456f2af51b755
+@
+버그/장애.md,6/c/6cdf007a777e7dbcc9c67df31f961af92aca1c95
+K
+legacy/Legacy 와 비용.md,8/5/85a47eecadebedb2f114c31209f5144477d0684a
+e
+5aws/06. Linux 인스턴스 웹서버 생성 실습.md,7/0/70bf3b6d8a2c01e15b9629b4d165134430c1e703
+j
+:aws/07. Network Interface & 탄력적 IP ( Elastic IP ).md,1/f/1fcc90aba53c37481f1b3bfb86d9e5f3667fcba4
+Q
+!legacy/LegacyCode 분석방법.md,a/2/a21e30b7ac89c44c5c083e3ee8c4943c18f6accb
