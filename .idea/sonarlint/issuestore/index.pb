@@ -1,12 +1,8 @@
 
 U
 %aws/03. 클라우드 배포 모델.md,9/1/9142ccbf1938a6fabf7ab939dfc30e51821e1ca4
-J
-kafka/kafka quick start.md,5/a/5ab1ffc7176fbac717b0681dcabe40ea44ceb56f
 C
 kafka/01. 설치.md,7/f/7f632d056db92d5202da5c231e70d74cb37e4a18
-B
-kafka/02. topic.md,f/9/f930bbf1966f9ab1bb7955546ca9b4d029948145
 A
 aws/99. 실습.md,b/2/b2cba72bee84b99c78334e3cd22fda7b1f78298f
 @
