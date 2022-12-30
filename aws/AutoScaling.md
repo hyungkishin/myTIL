@@ -42,4 +42,4 @@
   - CloudWatch alarm의 지표를 기반으로 Auto Scaling 그룹을 확장 하는 방식
   - 예, CPU 사용률이 60% 초과하면 Auto Scaling Group 10% 또는 2개 증가 CPU 사용률이 30% 이하면 Auto Scaling
   Group 10% 또는 2개 감소
-  • 크기조정활동또는상태확인교체가진행중인동안에도정책이추가경보에계속응답
+  • 크기조정 활동 또는 상태확인 교체가 진행중인 동안에도 정책이 추가경보에 계속 응답
