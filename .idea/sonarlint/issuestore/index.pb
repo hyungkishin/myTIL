@@ -1,8 +1,6 @@
 
 U
 %aws/03. 클라우드 배포 모델.md,9/1/9142ccbf1938a6fabf7ab939dfc30e51821e1ca4
-C
-kafka/01. 설치.md,7/f/7f632d056db92d5202da5c231e70d74cb37e4a18
 A
 aws/99. 실습.md,b/2/b2cba72bee84b99c78334e3cd22fda7b1f78298f
 @
@@ -35,3 +33,9 @@ Q
 !legacy/LegacyCode 분석방법.md,a/2/a21e30b7ac89c44c5c083e3ee8c4943c18f6accb
 Q
 !tobys-spring/01. 초난감 DAO.md,6/4/64f40404869a52d4f88273a4c2bb1be45c79def9
+}
+Mspring/batch/03. SpringBatch 의 메타데이터를 관리하는 테이블.md,1/d/1da41eff3a31a622f245ef1c89761cdfeb5e2a21
+J
+spring/batch/ItemReader.md,9/4/94fc9fa732a2f2bcac13308f24837c8f116d8b8e
+D
+aws/00. aws 란 ?.md,f/e/fe9826d6ad3ffbf569054fc5e07c8f21b38cd55a
