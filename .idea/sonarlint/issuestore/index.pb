@@ -30,8 +30,6 @@ e
 j
 :aws/07. Network Interface & 탄력적 IP ( Elastic IP ).md,1/f/1fcc90aba53c37481f1b3bfb86d9e5f3667fcba4
 Q
-!legacy/LegacyCode 분석방법.md,a/2/a21e30b7ac89c44c5c083e3ee8c4943c18f6accb
-Q
 !tobys-spring/01. 초난감 DAO.md,6/4/64f40404869a52d4f88273a4c2bb1be45c79def9
 }
 Mspring/batch/03. SpringBatch 의 메타데이터를 관리하는 테이블.md,1/d/1da41eff3a31a622f245ef1c89761cdfeb5e2a21
