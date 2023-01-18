@@ -51,5 +51,19 @@ M
 tobys-spring/02. 테스트.md,3/f/3fb0e756b4f3c84bf637ff80edc3c565bcd812f0
 F
 network/vpn 과 rdp.md,2/6/26f542fc09a931679d80fa3731c73c5562a2177b
+J
+kafka/kafka quick start.md,5/a/5ab1ffc7176fbac717b0681dcabe40ea44ceb56f
+B
+kafka/02. topic.md,f/9/f930bbf1966f9ab1bb7955546ca9b4d029948145
+C
+kafka/01. 설치.md,7/f/7f632d056db92d5202da5c231e70d74cb37e4a18
+O
+java/01. 문자열 계산기.md,c/9/c9ed8303981985e2d8b84a6c40f80d41f8463082
+Q
+!legacy/LegacyCode 분석방법.md,a/2/a21e30b7ac89c44c5c083e3ee8c4943c18f6accb
 G
 my-diary/2022 회고.md,3/a/3a6ec0b7bab2bed5078c2695b15467c2324bc521
+Y
+)my-diary/FE 진영의 성숙도 고찰.md,3/c/3c23c27ddfb468f1578f2e1d9f75ab2acd0c10ac
+[
++docker/01. 컨테이너 기술의 발전.md,0/4/047e1262b5d652959a0c6020839894e09868a03a
