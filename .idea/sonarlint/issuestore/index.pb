@@ -67,3 +67,10 @@ Y
 )my-diary/FE 진영의 성숙도 고찰.md,3/c/3c23c27ddfb468f1578f2e1d9f75ab2acd0c10ac
 [
 +docker/01. 컨테이너 기술의 발전.md,0/4/047e1262b5d652959a0c6020839894e09868a03a
+Z
+*troubleshooting/01. 무한로딩의 늪.md,1/1/11f2740bea7332043ceb9df2f8f340835e6f5c26
+Z
+*troubleshooting/02. 해쉬코드의 늪.md,8/d/8d5772ca1b7f26e7ae9e5deac8bf0d5d242d9f83
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
