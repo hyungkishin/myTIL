@@ -90,3 +90,7 @@ O
 java/01. 문자열 계산기.md,c/9/c9ed8303981985e2d8b84a6c40f80d41f8463082
 V
 &spring/batch/02. springBatch 구조.md,9/8/98be79cea6f6b3c9daba17be4bfffaccd23f1be5
+}
+Mspring/batch/03. SpringBatch 의 메타데이터를 관리하는 테이블.md,1/d/1da41eff3a31a622f245ef1c89761cdfeb5e2a21
+U
+%troubleshooting/03. docker-compose.md,4/5/458ecedc21a4564782d998c4e453885c14caeb5f
