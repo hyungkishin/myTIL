@@ -29,14 +29,10 @@ e
 5aws/06. Linux 인스턴스 웹서버 생성 실습.md,7/0/70bf3b6d8a2c01e15b9629b4d165134430c1e703
 j
 :aws/07. Network Interface & 탄력적 IP ( Elastic IP ).md,1/f/1fcc90aba53c37481f1b3bfb86d9e5f3667fcba4
-}
-Mspring/batch/03. SpringBatch 의 메타데이터를 관리하는 테이블.md,1/d/1da41eff3a31a622f245ef1c89761cdfeb5e2a21
 J
 spring/batch/ItemReader.md,9/4/94fc9fa732a2f2bcac13308f24837c8f116d8b8e
 D
 aws/00. aws 란 ?.md,f/e/fe9826d6ad3ffbf569054fc5e07c8f21b38cd55a
-V
-&spring/batch/02. springBatch 구조.md,9/8/98be79cea6f6b3c9daba17be4bfffaccd23f1be5
 K
 aws/01. aws 클라우드.md,d/e/de3315590934d9a11472602bc943fb9031774116
 B
@@ -59,10 +55,6 @@ Y
 )my-diary/FE 진영의 성숙도 고찰.md,3/c/3c23c27ddfb468f1578f2e1d9f75ab2acd0c10ac
 [
 +docker/01. 컨테이너 기술의 발전.md,0/4/047e1262b5d652959a0c6020839894e09868a03a
-Z
-*troubleshooting/01. 무한로딩의 늪.md,1/1/11f2740bea7332043ceb9df2f8f340835e6f5c26
-Z
-*troubleshooting/02. 해쉬코드의 늪.md,8/d/8d5772ca1b7f26e7ae9e5deac8bf0d5d242d9f83
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
@@ -72,19 +64,23 @@ O
 tdd/ATDD/01. 인수테스트.md,9/d/9da6b010b416fc7c0a264d2a08551cf288adb694
 M
 react/vscode_settings.json.md,8/c/8c3b6c2f29672d1d39bbe54030af9923f1620619
-C
-tdd/ATDD/builder.md,b/6/b620d02a854463a58a97cefa20b138f57430f15f
 <
 react/jsx.md,b/d/bd8bd1b0f96068dca3945401ad9eab3618e30f6a
 E
 react/그날그날.md,1/d/1dd534abee38a78b71d0569a26a113849a98522f
 K
 hanatour/hanatour/coupon.md,b/5/b5cd8945b6692d3145ccfa3f705f1733c1f8eb58
-J
-tdd/ATDD/DirtiesContext.md,8/2/828d9e3c33eba5700d8b6b97641cd6c7efbd240f
 m
 =tdd/ATDD/02. 테스트 하기 쉬운코드 어려운코드.md,c/3/c334ef61e00338b3caa7a1ad28fb522a82bc1479
 d
 4react/제어컴포넌트와 비제어컴포넌트.md,0/b/0bc66ffcaf38825888ac820f845e341522ff3d73
 Q
 !spring/tobys-spring/04. 예외.md,6/7/67c76f7ab49bbc033e07ff7977badc0d7fd0f801
+T
+$spring/tobys-spring/02. 테스트.md,1/7/1769d6d65e3a1b13e58f1d001f178c88bdecf48d
+T
+$spring/tobys-spring/03. 템플릿.md,1/4/14defd6b37af337d790479ad491f92fe17a5ff28
+N
+spring/basic/01. was 설정.md,6/6/6678e267ae2d9b3c5d9fa466a6a469abc71b97f7
+J
+spring/basic/02.war 란.md,5/8/5863378d857cac60ae0a635e2cebdd4bd6768f8e
