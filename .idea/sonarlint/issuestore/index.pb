@@ -45,8 +45,6 @@ B
 kafka/02. topic.md,f/9/f930bbf1966f9ab1bb7955546ca9b4d029948145
 C
 kafka/01. 설치.md,7/f/7f632d056db92d5202da5c231e70d74cb37e4a18
-O
-java/01. 문자열 계산기.md,c/9/c9ed8303981985e2d8b84a6c40f80d41f8463082
 Q
 !legacy/LegacyCode 분석방법.md,a/2/a21e30b7ac89c44c5c083e3ee8c4943c18f6accb
 G
@@ -84,3 +82,11 @@ N
 spring/basic/01. was 설정.md,6/6/6678e267ae2d9b3c5d9fa466a6a469abc71b97f7
 J
 spring/basic/02.war 란.md,5/8/5863378d857cac60ae0a635e2cebdd4bd6768f8e
+Y
+)spring/basic/03.intellij tomcat 설정.md,4/9/49b5b64ba9c060e88db7403a2d93bf00db9c159b
+W
+'spring/batch/01. batch 구조 설계.md,b/4/b4151c62afad1b31494a252cedd3e934ce979057
+O
+spring/batch/01. springBatch.md,a/e/ae9baa4b0ef5e094021a7afaf59901bdd47b939d
+O
+java/01. 문자열 계산기.md,c/9/c9ed8303981985e2d8b84a6c40f80d41f8463082
