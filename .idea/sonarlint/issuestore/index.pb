@@ -21,8 +21,6 @@ Q
 !aws/12. 시스템 아키텍처.md,0/a/0a90f2e1af366245865823938bc832df75fe26e2
 >
 aws/13. ELB.md,a/3/a34673d4e3d5f5529e71a89bff0456f2af51b755
-@
-버그/장애.md,6/c/6cdf007a777e7dbcc9c67df31f961af92aca1c95
 K
 legacy/Legacy 와 비용.md,8/5/85a47eecadebedb2f114c31209f5144477d0684a
 e
