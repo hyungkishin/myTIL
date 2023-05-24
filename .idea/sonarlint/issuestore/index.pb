@@ -88,3 +88,5 @@ O
 spring/batch/01. springBatch.md,a/e/ae9baa4b0ef5e094021a7afaf59901bdd47b939d
 O
 java/01. 문자열 계산기.md,c/9/c9ed8303981985e2d8b84a6c40f80d41f8463082
+V
+&spring/batch/02. springBatch 구조.md,9/8/98be79cea6f6b3c9daba17be4bfffaccd23f1be5
