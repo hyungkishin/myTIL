@@ -45,17 +45,11 @@ C
 kafka/01. 설치.md,7/f/7f632d056db92d5202da5c231e70d74cb37e4a18
 Q
 !legacy/LegacyCode 분석방법.md,a/2/a21e30b7ac89c44c5c083e3ee8c4943c18f6accb
-G
-my-diary/2022 회고.md,3/a/3a6ec0b7bab2bed5078c2695b15467c2324bc521
-Y
-)my-diary/FE 진영의 성숙도 고찰.md,3/c/3c23c27ddfb468f1578f2e1d9f75ab2acd0c10ac
 [
 +docker/01. 컨테이너 기술의 발전.md,0/4/047e1262b5d652959a0c6020839894e09868a03a
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-M
-tdd/ATDD/01. 시작 ! ATDD.md,b/b/bb22cf4336763e3cf1e233675679a4335e5f101f
 O
 tdd/ATDD/01. 인수테스트.md,9/d/9da6b010b416fc7c0a264d2a08551cf288adb694
 M
