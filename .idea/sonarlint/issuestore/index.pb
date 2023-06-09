@@ -47,9 +47,6 @@ Q
 !legacy/LegacyCode 분석방법.md,a/2/a21e30b7ac89c44c5c083e3ee8c4943c18f6accb
 [
 +docker/01. 컨테이너 기술의 발전.md,0/4/047e1262b5d652959a0c6020839894e09868a03a
-:
-
-.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 O
 tdd/ATDD/01. 인수테스트.md,9/d/9da6b010b416fc7c0a264d2a08551cf288adb694
 M
@@ -88,3 +85,23 @@ V
 Mspring/batch/03. SpringBatch 의 메타데이터를 관리하는 테이블.md,1/d/1da41eff3a31a622f245ef1c89761cdfeb5e2a21
 U
 %troubleshooting/03. docker-compose.md,4/5/458ecedc21a4564782d998c4e453885c14caeb5f
+N
+spring/domain/domain 설계.md,9/1/91add9e233bb7d936c3830364766fbc9571d0b2c
+^
+.spring/tobys-spring/05. 서비스 추상화.md,a/d/ad0cc41322ac5e4f37cae44eb9b81f3299136736
+Z
+*troubleshooting/01. 무한로딩의 늪.md,1/1/11f2740bea7332043ceb9df2f8f340835e6f5c26
+Z
+*troubleshooting/02. 해쉬코드의 늪.md,8/d/8d5772ca1b7f26e7ae9e5deac8bf0d5d242d9f83
+C
+tdd/ATDD/builder.md,b/6/b620d02a854463a58a97cefa20b138f57430f15f
+J
+tdd/ATDD/DirtiesContext.md,8/2/828d9e3c33eba5700d8b6b97641cd6c7efbd240f
+B
+tdd/spoke/spoke.md,1/a/1a158d92b7dd3043549aabf2293dbbb386e92281
+D
+tdd/spoke/jpaTest.md,0/f/0f54fa611799fa216c96dbff47144e3ae23f6203
+@
+버그/장애.md,6/c/6cdf007a777e7dbcc9c67df31f961af92aca1c95
+G
+my-diary/2022 회고.md,3/a/3a6ec0b7bab2bed5078c2695b15467c2324bc521
