@@ -103,3 +103,9 @@ D
 버그/장애.md,6/c/6cdf007a777e7dbcc9c67df31f961af92aca1c95
 G
 my-diary/2022 회고.md,3/a/3a6ec0b7bab2bed5078c2695b15467c2324bc521
+B
+spring/Auth/JWT.md,3/4/345195a8609c1e0c452966786d1df7b553b985aa
+M
+tdd/ATDD/01. 시작 ! ATDD.md,b/b/bb22cf4336763e3cf1e233675679a4335e5f101f
+_
+/my-diary/FE 진영의 기술 변경 고찰-1.md,8/d/8dfe26e32a13065eb5aed01ddd42be364ab6e791
