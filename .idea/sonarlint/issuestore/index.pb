@@ -73,8 +73,6 @@ J
 spring/basic/02.war 란.md,5/8/5863378d857cac60ae0a635e2cebdd4bd6768f8e
 Y
 )spring/basic/03.intellij tomcat 설정.md,4/9/49b5b64ba9c060e88db7403a2d93bf00db9c159b
-W
-'spring/batch/01. batch 구조 설계.md,b/4/b4151c62afad1b31494a252cedd3e934ce979057
 O
 spring/batch/01. springBatch.md,a/e/ae9baa4b0ef5e094021a7afaf59901bdd47b939d
 O
@@ -105,7 +103,11 @@ G
 my-diary/2022 회고.md,3/a/3a6ec0b7bab2bed5078c2695b15467c2324bc521
 B
 spring/Auth/JWT.md,3/4/345195a8609c1e0c452966786d1df7b553b985aa
-M
-tdd/ATDD/01. 시작 ! ATDD.md,b/b/bb22cf4336763e3cf1e233675679a4335e5f101f
 _
 /my-diary/FE 진영의 기술 변경 고찰-1.md,8/d/8dfe26e32a13065eb5aed01ddd42be364ab6e791
+]
+-tdd/01. 수동테스트 vs 자동테스트.md,d/4/d4b6fe1ed51529f6a4679d523372bd4812b5fa16
+^
+.tdd/02. 테스트케이스 세분화 하기.md,d/e/de074c47ebd9e54483a197a81c68948ed1039dde
+l
+<tdd/03. 테스트 하기 어려운 영역을 분리하기.md,9/6/96283c049081f5fbc30174c4dac23ac5ae2f848d
