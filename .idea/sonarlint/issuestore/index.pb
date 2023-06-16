@@ -79,8 +79,6 @@ O
 java/01. 문자열 계산기.md,c/9/c9ed8303981985e2d8b84a6c40f80d41f8463082
 V
 &spring/batch/02. springBatch 구조.md,9/8/98be79cea6f6b3c9daba17be4bfffaccd23f1be5
-}
-Mspring/batch/03. SpringBatch 의 메타데이터를 관리하는 테이블.md,1/d/1da41eff3a31a622f245ef1c89761cdfeb5e2a21
 U
 %troubleshooting/03. docker-compose.md,4/5/458ecedc21a4564782d998c4e453885c14caeb5f
 N
@@ -109,5 +107,23 @@ _
 -tdd/01. 수동테스트 vs 자동테스트.md,d/4/d4b6fe1ed51529f6a4679d523372bd4812b5fa16
 ^
 .tdd/02. 테스트케이스 세분화 하기.md,d/e/de074c47ebd9e54483a197a81c68948ed1039dde
-l
-<tdd/03. 테스트 하기 어려운 영역을 분리하기.md,9/6/96283c049081f5fbc30174c4dac23ac5ae2f848d
+B
+tdd/04. Why TDD.md,f/a/fa588da15281926209d3ffb062b0cc6baa1a5e20
+Z
+*troubleshooting/02. 해쉬코드의 늪.md,8/d/8d5772ca1b7f26e7ae9e5deac8bf0d5d242d9f83
+K
+tdd/05. 키워드 정리.md,8/f/8f2bb949704becbdda4f9e509cca13bdf6e1bfd3
+M
+tdd/ATDD/01. 시작 ! ATDD.md,b/b/bb22cf4336763e3cf1e233675679a4335e5f101f
+Q
+!tdd/06. 테스트는 문서다.md,8/e/8ef05181d01704d713b7dfa977185948fff566e9
+:
+
+tdd/BDD.md,b/f/bffbfda66af4f5c848598018ec8aaeb6702831ad
+d
+4my-diary/뛰어난 엔지니어가 되는 5요소.md,1/b/1b2dcab6cc31bf5657ddb2fde68c59d7837f8122
+Y
+)my-diary/FE 진영의 성숙도 고찰.md,3/c/3c23c27ddfb468f1578f2e1d9f75ab2acd0c10ac
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
