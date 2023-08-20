@@ -125,3 +125,29 @@ Y
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+_
+/spring/reactive/01. Reactive 나도해보자.md,7/7/77686797f9624d3f1749adff85bc20a96acaa852
+}
+Mspring/batch/03. SpringBatch 의 메타데이터를 관리하는 테이블.md,1/d/1da41eff3a31a622f245ef1c89761cdfeb5e2a21
+W
+'spring/batch/01. batch 구조 설계.md,b/4/b4151c62afad1b31494a252cedd3e934ce979057
+Y
+)tdd/09. 더 나은 테스트를 위해.md,9/a/9abc6f50755a8dca344f585e361cdd579c4f88a9
+P
+ tdd/08. Classicist vs Mockist.md,e/e/eeea692f497f01fee98a9fefada8f3e1226d7fac
+R
+"tdd/07. presentation Layer Test.md,8/d/8dd50ebe59400fc3c326cfd891e14b9ce5e25e1f
+K
+tdd/Layered Architecture.md,f/d/fd06e9674bcaa14b65ab1046e29434ef83962281
+[
++spring/batch/00. batch 의 탄생 배경.md,0/8/081d713b22d350746e45d78b7ab3c79f1d0bbaa4
+l
+<tdd/03. 테스트 하기 어려운 영역을 분리하기.md,9/6/96283c049081f5fbc30174c4dac23ac5ae2f848d
+X
+(spring/reactive/02. Caller 와 Callee.md,d/c/dc9cf567115d2e90e7b01fd95005686f4b03338a
+o
+?spring/tobys-spring/DI 를 이용한 Decorator, Proxy 패턴.md,6/1/61fb1f934197673c166195b058f0c5377c1a82bb
+m
+=spring/tobys-spring/자동구성 기반 어플리케이션.md,b/e/be7081a93d4a775a62720590b5d20867fa873883
+p
+@spring/tobys-spring/합성 어노테이션을 만들어보자.md,e/2/e2ec4feb3e0c794135cec62f5c1ebabe3f5e0bf9
